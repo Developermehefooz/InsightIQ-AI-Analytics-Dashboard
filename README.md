@@ -11,9 +11,7 @@ Transform raw CSV and Excel data into meaningful business insights through inter
 
 ## 🚀 Project Overview
 
-InsightIQ is a modern web-based analytics dashboard that enables users to upload CSV or Excel datasets and instantly visualize their data through interactive charts, KPI cards, searchable tables, and business insights.
-
-The project is designed to simplify data analysis for students, analysts, and business users without requiring advanced technical knowledge.
+nsightIQ – AI Analytics Dashboard is a modern web-based data analytics application that helps users transform raw CSV and Excel datasets into meaningful business insights. The dashboard provides real-time KPI cards, interactive charts, searchable data tables, dark mode support, and export functionality, enabling users to analyze data quickly through an intuitive and responsive interface. Built entirely with HTML, CSS, JavaScript, Chart.js, and SheetJS, the project demonstrates strong front-end development, data visualization, and analytical problem-solving skills.
 
 ---
 
